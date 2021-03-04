@@ -1,1 +1,4 @@
 This is file 1.
+This is second line of file 1.
+I am making changes in this file after pushing it from my local repo to github.
+These changes are ready to pull into from my github to my local.
